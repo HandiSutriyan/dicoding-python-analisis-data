@@ -1,2 +1,2 @@
 Tautan dashboard interaktif:
-https://6vqsbqk3bnen5xnpnbl3bs.streamlit.app
+https://dashborad-aq-tiongkok.streamlit.app/
