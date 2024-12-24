@@ -2,3 +2,5 @@
 __pycache__/
 *.pyc
 *.pyo
+app.py.swo
+app.py.swp
