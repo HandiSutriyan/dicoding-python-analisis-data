@@ -33,3 +33,7 @@ pip install -r requirements.txt
 ```
 streamlit run dashboard.py
 ```
+
+## Dashboard Interaktif
+Anda juga dapat mengakses dashboard interaktif dataset ini pada tautan:
+https://6vqsbqk3bnen5xnpnbl3bs.streamlit.app
