@@ -34,8 +34,8 @@ def plot_monthly_trend(df,pollutant,year = ""):
     return plt
 
 #Load dataset
-all_df = pd.read_csv("all_data.csv")
-loc_df = pd.read_csv("stasiun_koordinat.csv")
+all_df = pd.read_csv("./data/all_data.csv")
+loc_df = pd.read_csv("./data/stasiun_koordinat.csv")
 all_df.sort_values(by="datetime", inplace=True)
 pollutants = ['PM2.5','PM10','SO2','NO2','CO','O3']
 env_vars = ['TEMP','PRES','DEWP','RAIN','WSPM']
