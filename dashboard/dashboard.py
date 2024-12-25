@@ -46,7 +46,7 @@ min_date = all_df["datetime"].min()
 max_date = all_df["datetime"].max()
 station_df = sort_by_station(all_df)
 
-st.header('Dashboard Monitoring Kualitas Udara Tiongkok')
+st.header('Dashboard Monitoring Kualitas Udara Tiongkok :cn: :foggy:')
 
 st.divider()
 st.subheader('Peringkat Rata-rata polusi setiap lokasi')
